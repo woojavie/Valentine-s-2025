@@ -5,13 +5,19 @@
 
 body {
     background: rgb(247, 172, 184);
+    padding-top: 150px; 
 }
 
 
 /* CSS */
 .gif {
-    width: 230px;
+    width: 400px;
     border: solid white 5px;
+}
+
+h2 {
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 .buttony {
